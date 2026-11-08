@@ -19,3 +19,5 @@ The separate complete prototype bundle includes a Node.js server, administration
 6. Connect the future YouTube channel.
 
 **Status:** Prelaunch. Not a registered charity and not affiliated with the Church of England or a political party. No claim is made that any church has been acquired or will reopen.
+
+Deployment workflow is configured in `.github/workflows/pages.yml`; Pages must be enabled for the repository before it can publish.
